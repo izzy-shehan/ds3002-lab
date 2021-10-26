@@ -1,0 +1,5 @@
+labs completed –>
+1. data cleaning
+2. docker 101
+3. docker classroom
+4. intro to aws dynamodb
